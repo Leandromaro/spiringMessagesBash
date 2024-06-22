@@ -1,4 +1,4 @@
-# spiringMessagesBash
+# Daily spiring console messages 
 
 ## Overview
 
